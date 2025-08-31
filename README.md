@@ -12,7 +12,7 @@ A simple and efficient Expense Tracker web application built with [React](https:
 
 ## Screenshots
 
-![Dashboard Screenshot](image.png)
+![Dashboard](<expense tracker.png>)
 
 ## Getting Started
 
